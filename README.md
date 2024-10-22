@@ -16,3 +16,4 @@ Location Search: Allows users to search for weather information by city name.
 Forecast: Provides a 5-day weather forecast for the selected location.
 Responsive Design: The app is designed to be responsive and works well on both desktop and mobile devices.
 Error Handling: Handles API errors and displays appropriate messages to the user.
+
